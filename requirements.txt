@@ -5,3 +5,6 @@ pydantic==1.*
 langchain
 bs4
 tiktoken
+langchain-experimental
+faiss-cpu
+sentence-transformers
